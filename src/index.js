@@ -4,8 +4,6 @@ import App from "./App";
 import React from "react";
 import ReactDOM from "react-dom";
 import reportWebVitals from "./reportWebVitals";
-import LoginForm from "./components/LoginForm";
-
 ReactDOM.render(
   <React.StrictMode>
     <App />
