@@ -1,4 +1,4 @@
-import "./LoginForm.css"
+import "./LoginForm.module.css"
 export default function LoginForm() {
 return (
   <div className="form">
