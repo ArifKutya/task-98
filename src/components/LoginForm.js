@@ -4,7 +4,7 @@ export default function LoginForm() {
   return (
     <div>
       <form className="form">
-        <label className="label">Username</label>
+        <label className="label">Username</>
         <input className="input" type="text" placeholder="username" />
         <label className="label">Password</label>
         <input className="input" type="password" placeholder="password" />
